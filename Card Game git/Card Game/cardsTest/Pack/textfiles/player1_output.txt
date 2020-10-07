@@ -1,0 +1,48 @@
+player1 initial hand [4, 5, 3, 5]
+player1 draws a 1 from deck 1
+player1 discards a 4 to deck 2
+player1 current Hand [5, 3, 5, 1]
+
+player1 draws a 3 from deck 1
+player1 discards a 5 to deck 2
+player1 current Hand [3, 5, 1, 3]
+
+player1 draws a 5 from deck 1
+player1 discards a 3 to deck 2
+player1 current Hand [5, 1, 3, 5]
+
+player1 draws a 6 from deck 1
+player1 discards a 5 to deck 2
+player1 current Hand [1, 3, 5, 6]
+
+player1 draws a 2 from deck 1
+player1 discards a 3 to deck 2
+player1 current Hand [1, 5, 6, 2]
+
+player1 draws a 3 from deck 1
+player1 discards a 5 to deck 2
+player1 current Hand [1, 6, 2, 3]
+
+player1 draws a 2 from deck 1
+player1 discards a 6 to deck 2
+player1 current Hand [1, 2, 3, 2]
+
+player1 draws a 4 from deck 1
+player1 discards a 2 to deck 2
+player1 current Hand [1, 3, 2, 4]
+
+player1 draws a 2 from deck 1
+player1 discards a 3 to deck 2
+player1 current Hand [1, 2, 4, 2]
+
+player1 draws a 4 from deck 1
+player1 discards a 2 to deck 2
+player1 current Hand [1, 4, 2, 4]
+
+player1 draws a 3 from deck 1
+player1 discards a 4 to deck 2
+player1 current Hand [1, 2, 4, 3]
+
+player3 has informed player1 that player 3 has won
+player1 exits
+player1 final hand [1, 2, 4, 3]
